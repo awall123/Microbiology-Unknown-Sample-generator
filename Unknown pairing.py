@@ -1,7 +1,7 @@
 #Author: Andrew Wall, 10/26/2021
 import random
 
-grampos = ["B. subtilis", "B. cereus", "C. pseudodiptheriticum", "C. xerosis", "E. faecalis", "L. lactis", "M. luteus", "M. roseus", "M. smegmatis", "S. agalactiae", "S. aureus", "S. epidermidis", "S. pyogenes"]
+grampos = ["B. subtilis", "B. cereus", "C. pseudodiptheriticum", "C. xerosis", "E. faecalis", "L. lactis", "M. luteus", "M. roseus", "S. agalactiae", "S. aureus", "S. epidermidis", "S. pyogenes"]
 gramneg = ["E. aerogenes", "E. coli", "K. pneumoniae", "P. aeruginosa", "P. fluorescens", "P. mirabilis", "P. vulgaris", "S. flexneri", "S. marcescens", "S. typhimurium"]
 
 print("Current list of Unknown cultures used:\n")
