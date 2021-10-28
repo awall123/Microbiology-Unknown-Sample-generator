@@ -64,17 +64,17 @@ def unknown():
 	x = random.randint(1,20)
 	y = (x/20)
 	if (y == 0.05):
-		itempos = random.choice(grampos)
-		itemneg = random.choice(grampos)
-		print (itempos, itemneg, sep = "\t")
+		item1 = random.choice(grampos)
+		item2 = random.choice(grampos)
+		print (item1, item2, sep = "\t")
 	elif (y == 0.1):
-		itempos = random.choice(gramneg)
-		itemneg = random.choice(gramneg)
-		print (itempos, itemneg, sep = "\t")
+		item1 = random.choice(gramneg)
+		item2 = random.choice(gramneg)
+		print (item1, item2, sep = "\t")
 	else:
-	    itempos = random.choice(grampos)
-	    itemneg = random.choice(gramneg)
-	    print (itempos, itemneg, sep = "\t")
+	    item1 = random.choice(grampos)
+	    item2 = random.choice(gramneg)
+	    print (item1, item2, sep = "\t")
 
 students = int(input("Enter the number of students needing Unknown pairs and press 'Enter'\n "))
 print ("")
