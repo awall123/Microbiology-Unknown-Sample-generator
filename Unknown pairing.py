@@ -82,4 +82,4 @@ for _ in range(students):
     unknown()
 
 print("")
-input("Highlight the above list and copy to excel.\nPress 'Enter' when finished")
+input("Highlight and copy the above list.\nPress 'Enter' when finished")
