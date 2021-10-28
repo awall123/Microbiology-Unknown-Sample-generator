@@ -1,2 +1,4 @@
 # Microbiology-Unknown-Sample-generator
 This code will assign two bacteria to a given number of students.
+
+In our Microbiology lab, students are assigned a mixture of two bacteria referred to as an "Unknown culture." The students are expected to isolate and identify the species of bacteria given to them.  This code shows the lab coordinator (AKA the user) a list of species currently being used and allows the user to add new Gram positive or Gram negative bacteria to the list. Additionally, the user can input the number of students that are in need of a mixed culture of bacteria.  There is a 90% chance that a given student receives an "unknown" mixed culture containing 1 Gram positive and 1 Gram negative bacterial species, a 5% chance that a given student will receive 2 Gram positive bacterial species, and a 5% chance that a given student will receive 2 Gram negative bacterial species.
